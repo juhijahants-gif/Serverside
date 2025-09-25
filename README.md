@@ -85,15 +85,16 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.calculate_bmi, name='calculate_bmi'),
 ]
+```
 
 
 
 ## SERVER SIDE PROCESSING:
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-24 162918.png
+![alt text](<Screenshot 2025-09-24 162918.png>)
 
 
 ## HOMEPAGE:
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-09-24 160229.png
+![alt text](<Screenshot 2025-09-24 160229.png>)
 
 
 ## RESULT:
